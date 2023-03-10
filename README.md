@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on:
+  + Java (Spring)
+  + C# (.NET) 
+  + HTML/CSS/JS
+  + Android (Java)
+  + Unity
+  + React
+  
 
 <!--
 **Evolting/Evolting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
