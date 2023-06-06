@@ -8,6 +8,7 @@
   + React
 - 🌱 I’m currently learning:
   + NodeJS
+  + React Native
   
 
 <!--
