@@ -6,9 +6,11 @@
   + Android (Java)
   + Unity
   + React
+  + C/C++
 - 🌱 I’m currently learning:
   + NodeJS
   + React Native
+  + AUTOSAR
   
 
 <!--
